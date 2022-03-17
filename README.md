@@ -1,0 +1,2 @@
+# MinestomTest
+用于测试Minestom服务器框架是否好用doge
